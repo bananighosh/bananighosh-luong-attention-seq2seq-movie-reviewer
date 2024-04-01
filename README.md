@@ -1,1 +1,1 @@
-# bananighosh-luong-attention-seq2seq-movie-reviewer
+# luong-attention-seq2seq-movie-reviewer
